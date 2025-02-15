@@ -12,8 +12,8 @@ following to a special code created from an 8 port switch it displays the letter
 
 ## How to test
 
-Explain how to use your project
+like this
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 port swithc, 7 segment display 
